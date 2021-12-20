@@ -168,3 +168,7 @@ create_graph_scatter(20,20,aqius,city, 'Air Quality US EPA stadard vs Population
 create_graph_scatter(10,10,wind,aqius, 'Air Quality US EPA stadard vs Wind','Wind','Air Quality US EPA stadard')#this is the second scatter graph showing relationship Air Quality US EPA stadard vs Wind
 create_graph_bar(5,20,city,aqius, 'Air Quality US EPA stadard vs City','Air Quality US EPA stadard','City')#this is the bargraph showing relationship Air Quality US EPA stadard vs City
 ```
+
+Statistical Description 
+=
+
