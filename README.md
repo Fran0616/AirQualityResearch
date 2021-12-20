@@ -171,13 +171,13 @@ create_graph_bar(5,20,city,aqius, 'Air Quality US EPA stadard vs City','Air Qual
 
 Statistical Description 
 =
-|  | population  | Air Quality China MEP standard | Air Quality US EPA standard  | Wind 
+|  | Population  | Air Quality China MEP standard | Air Quality US EPA standard  | Wind 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Count  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| Mean | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| Std  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| Min  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| 25%  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| 50%  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| 75%  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
-| Max  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
+| Count  | 1.050000e+02  |  105.000000   | 105.000000  | 105.000000 | 
+| Mean | 4.481483e+05 |  28.047619  | 62.209524   |   1.528000 | 
+| Std  | 9.021373e+05  | 19.570082  | 32.124366    | 0.450000  | 
+| Min  |  6.641700e+04  |  0.000000  | 0.000000  | 0.000000  | 
+| 25%  | 1.548230e+05  | 14.000000   |59.000000   |  0.450000  | 
+| 50%  |  2.389420e+05 | 23.000000   | 41.000000   | 1.340000  | 
+| 75%  | 4.527450e+05  | 40.000000   | 59.000000  | 2.060000  | 
+| Max  | 8.398748e+06  | 112.000000  | 166.000000   | 5.140000  | 
