@@ -196,5 +196,11 @@ DF3 First 10 Rows
 | 7  | Stamford  | Connecticut  | 129775   | 7  | 41 | 0.45 | 
 
 
-![This is an image](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
+![Bar Graph](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
+
+
+![Scatter Graph 1](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
+
+
+![Statter Graph 2](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
 
