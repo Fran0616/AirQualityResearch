@@ -14,7 +14,7 @@ Pakistan, New Delhi, India; Beiking, China; Lima, Puru; and Cairo, Egypt… many
 City” [1].
 
 For my research topic I wanted to focus on air quality in the United States and observe how they differ based on population and other factors such as wind. My motivation for doing this is because I am a living organism living on this planet and would like to be part of the change to curb global warming. I want to start locally so I chose to only focus on the United States for this research, but also include the European Air Quality Index alongside the Chinese Index for any discrepancies. I divided the United States into three regions eastern cities, southeast cities, and west coast cities. I chose to do that because I also wanted to see if there is any correlation by region. I also understand that different regions have different weather patterns, so I want to see if those differences will have an effect on the air quality.
-Full reseach paper can be found [here]()
+Full reseach paper can be found [here](https://github.com/Fran0616/AirQualityResearch/blob/main/Final%20Project%20Report%20programming.pdf)
 
 Code
 = 
