@@ -199,8 +199,8 @@ DF3 First 10 Rows
 ![Bar Graph](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
 
 
-![Scatter Graph 1](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
+![Scatter Graph 1](https://github.com/Fran0616/AirQualityResearch/blob/main/Scatter.png)
 
 
-![Statter Graph 2](https://github.com/Fran0616/AirQualityResearch/blob/main/bar.png)
+![Statter Graph 2](https://github.com/Fran0616/AirQualityResearch/blob/main/Scatter2.png)
 
