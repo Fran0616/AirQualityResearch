@@ -186,11 +186,11 @@ DF3 First 10 Rows
 =
 |  | City  | State | Population  | Air Quality China MEP Stadandard | Air Quality US EPA Standard | Wind 
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| 0  | Portland  |  Maine   | 66417  | 1 | 3 | 105.000000 | 
-| 1 | Boston |  Massachusetts  | 694583   |   5 | 16 | 105.000000 | 
-| 2  | Springfield  | Massachusetts  |   153606  | 17  | 48 | 105.000000 | 
-| 3  |  Providence  |  Rhode%20Island  | 179335  | 9  | 25 | 105.000000 | 
-| 4  | Hartford  | Connecticut   |122105   |  9  | 105.000000 | 105.000000 | 
-| 5  |  New%20Haven | Connecticut   | 130418   | 9  | 105.000000 | 105.000000 | 
-| 6  | Bridgeport  | Connecticut   | 144900  | 9  | 105.000000 | 105.000000 | 
-| 7  | Stamford  | Connecticut  | 129775   | 7  | 105.000000 | 105.000000 | 
+| 0  | Portland  |  Maine   | 66417  | 1 | 3 | 0.45 | 
+| 1 | Boston |  Massachusetts  | 694583   |   5 | 16 | 2.24 | 
+| 2  | Springfield  | Massachusetts  |   153606  | 17  | 48 | 1.54 | 
+| 3  |  Providence  |  Rhode%20Island  | 179335  | 9  | 25 | 0.45 | 
+| 4  | Hartford  | Connecticut   |122105   |  9  | 25 | 1.54 | 
+| 5  |  New%20Haven | Connecticut   | 130418   | 9  | 25 | 0.45 | 
+| 6  | Bridgeport  | Connecticut   | 144900  | 9  | 21 | 1.34 | 
+| 7  | Stamford  | Connecticut  | 129775   | 7  | 41 | 0.45 | 
