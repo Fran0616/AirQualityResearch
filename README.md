@@ -194,3 +194,7 @@ DF3 First 10 Rows
 | 5  |  New%20Haven | Connecticut   | 130418   | 9  | 25 | 0.45 | 
 | 6  | Bridgeport  | Connecticut   | 144900  | 9  | 21 | 1.34 | 
 | 7  | Stamford  | Connecticut  | 129775   | 7  | 41 | 0.45 | 
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
